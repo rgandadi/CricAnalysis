@@ -1,0 +1,9 @@
+{
+    "mode":"prod",
+    
+    "data_path":{
+        "test":"./data/test",
+        "prod":"./data/prod"
+    }
+
+}
